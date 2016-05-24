@@ -1,1 +1,12 @@
-["index.md"]
+[
+    "index.md",
+    "why-vim.md",
+    "features-of-vim.md",
+    "what-makes-vim-special.md",
+    "the-neverending-story.md",
+    "i-when-i-have-no-vim.md",
+    "how-long-it-takes-to-switch-to-vim.md",
+    "how-to-start-using-vim.md",
+    "questions.md",
+    "thanks.md"
+]
