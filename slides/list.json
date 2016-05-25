@@ -1,7 +1,25 @@
 [
     "index.md",
     "why-vim.md",
-    "features-of-vim.md",
+    [
+        "features-of-vim.md",
+        "features-of-vim-1.md",
+        "features-of-vim-2.md",
+        "features-of-vim-3.md",
+        "features-of-vim-4.md",
+        "features-of-vim-5.md",
+        "features-of-vim-6.md",
+        "features-of-vim-7.md",
+        "features-of-vim-8.md",
+        "features-of-vim-9.md",
+        "features-of-vim-10.md",
+        "features-of-vim-11.md",
+        "features-of-vim-12.md",
+        "features-of-vim-13.md",
+        "features-of-vim-14.md",
+        "features-of-vim-15.md",
+        "features-of-vim-16.md"
+    ],
     [
         "what-makes-vim-special.md",
         "what-makes-vim-special-1.md",
