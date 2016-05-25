@@ -1,7 +1,6 @@
-## До того как у меня появился VIM
+## До того, как у меня появился VIM
 
-- Блокнот
-- Nano и VIM
+- Блокнот, Nano и VIM
 - TextMate
 - Emacs
 - PHPStorm

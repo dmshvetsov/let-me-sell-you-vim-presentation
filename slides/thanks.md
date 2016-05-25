@@ -1,3 +1,3 @@
-## Спасибо.
+## Спасибо
 
-сделано с помощью VIM, reveal.js и yoman
+Сделано с помощью VIM, reveal.js, grunt и yoman.

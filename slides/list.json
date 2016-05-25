@@ -2,11 +2,23 @@
     "index.md",
     "why-vim.md",
     "features-of-vim.md",
-    "what-makes-vim-special.md",
+    [
+        "what-makes-vim-special.md",
+        "what-makes-vim-special-1.md",
+        "what-makes-vim-special-2.md",
+        "what-makes-vim-special-3.md",
+        "what-makes-vim-special-4.md"
+    ],
     "the-neverending-story.md",
     "i-when-i-have-no-vim.md",
     "how-long-it-takes-to-switch-to-vim.md",
-    "how-to-start-using-vim.md",
+    [
+        "how-to-start-using-vim.md",
+        "how-to-start-using-vim-1.md",
+        "how-to-start-using-vim-2.md",
+        "how-to-start-using-vim-3.md",
+        "how-to-start-using-vim-4.md"
+    ],
     "questions.md",
     "thanks.md"
 ]
